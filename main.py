@@ -6,7 +6,7 @@ import time
 import os
 
 
-class DuitangParser:
+class DuitangImageScrap:
     def __init__(
         self, keyword: str, scroll_number: int = 10, sleep_timer: int = 1
     ) -> None:
