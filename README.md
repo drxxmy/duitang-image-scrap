@@ -13,7 +13,7 @@ python run.py
 
 ### Example of script usage
 
-```bash
+```
 python run.py
 
 Enter a keyword to search for images: 水
